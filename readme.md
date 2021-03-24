@@ -4,7 +4,7 @@ Projeto do [curso de Django](https://www.youtube.com/watch?v=LZsjuSBW5YM&list=PL
 O projeto consiste numa To-Do list, com titulo e descrição de tarefas, organizadas em uma página web.
 
 ## Requisitos:
-Criar o ambiente virtual *myenv* de acordo com o arquivo: *requirement.txt*
+Criar o ambiente virtual *myenv* e configurar de acordo com o arquivo: *requirement.txt*
 
 e executar:
 
